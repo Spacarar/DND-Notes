@@ -1,0 +1,6 @@
+Still on [[The Rock of Bral]]. [[Astrid]] and [[Bex Berghold]] decided to take a long rest. [[Morgana Noldra]] and I went to the [[Lesser Market of Bral]] to talk to the armorers and see about getting some fitted plate armor from the plasmoids. I bought my fitted plate armor (18 + dex [max 1])  and followed [[Morgana Noldra|Morgana]] around the market. We went into Giths-o-plenty. Morgana loaned me a bit of money to buy the cloak of featherfalling that also provides me proficiency in 0 gravity (which I already have). We start asking [[Large Luigi]] about where [[Gepar]] might have gone. He invited us to the back room, at first just me, but I was able to convince him to let [[Bex Berghold]] to come back with me. "Between you and me, do you guys know how we get food on this planet. the farms are taken care of on the underside by undesirables. The new king has been less concerned about the people and more concerned about the profit" He spoke about [[The Underbarons]] who might be able to help infiltrate the under city or have more information about [[Gepar]].
+
+#Episode7 #Episode 
+
+Previous Episode: [[Episode 6]]
+Next Episode [[Episode 8]]

@@ -1,0 +1,1 @@
+![[map-12.02-imperial-citadel-player.jpg]]

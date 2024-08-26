@@ -1,0 +1,6 @@
+We head off on our next part of the adventure toward "[[Doom space]]" on board [[Second Wind]]. My history check tells me thousands of years ago, a war between mortals and gods the mortals banished out gods into crystals. They eventually broke free and the area is spread across this area of space. There is a rumor that the gods show up here from time to time and they imploded a star to create the doom sphere. We're headed to doom space to meet with an old friend [[Topolah]].  [[Bex Berghold]] is manning the helm and speaking with the treant Starbough. I've spotted a jellyfish looking ship that called Esthetic. Piloted with a symbiotic race known as a [[Raigar]]. The ship came in to attack and a portal emerged. The [[Raigar]]'s name was [[Hastain]]. I then started blasting.  [[Solara Sunfire]] powered the ballista with the help of [[Commodore Krux]] and [[Mister Flinch]]. [[Barristan Tardiff - ME|Bear]] took out [[Hastain]] and Chastain with [[Astrid]] and [[Bex Berghold]]. We blew up the ship, it was a successful fight. [[Astrid]] picked up an outfit, a necklace, and a trident. We got a bad feeling about the outfit, and the necklace was touched when the [[Raigar]] created her duplicate.
+
+#Episode #Episode11
+
+Previous Episode: [[Episode 10]]
+Next Episode [[Episode 12]]

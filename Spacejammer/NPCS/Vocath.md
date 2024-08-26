@@ -1,0 +1,3 @@
+A [[Mercane]] known by [[Major Warwyck Blastimoff]]. We are headed to go visit him in 2-3 days time from [[Episode 16]]. He has managed to evacuated countless of races from war and has sold ships. I've been told he has a lot of sway over many people because of this. His base houses fearsome creatures and a gladiatorial arena. he has a love for gambling and it was suggested we may be able to compete in the arena to gain favor.
+
+ALSO a Moon in [[Doom Space]] that he named after himself

@@ -1,0 +1,6 @@
+We rested on [[Second Wind]] waking up to [[Fel Ardra]] and [[Commodore Krux]] arguing. We finally have departed from [[The Rock of Bral]]. I look at the orrery to see we are in wild space, the center of the table is the ship and there isn't much around us. [[Astrid]] discovered that we think this is a flat-earth cult looking for the end of space, who Astrid claims is held up by turtles. [[Bex Berghold]] and [[Barristan Tardiff - ME]] got a weird feeling about this cult feeling like a multi-level marketing scheme. [[Commodore Krux]] is convinced that [[The Xaryxians]] are more important than finding the edge of the universe. I've convinced [[Astrid]] and [[Solara Sunfire]] that this is true, but they've failed to convince [[Fel Ardra]] that it was worth her while. She tried to bluff us into paying much more money than it was worth and she agreed to give us control of the ship again for 400gp.  We then met [[Mister Flinch]] who insisted on helping [[Bex Berghold]] with her old sails to make her some better fitted armor. 
+
+#Episode #Episode10
+
+Previous Episode: [[Episode 9]]
+Next Episode [[Episode 11]]

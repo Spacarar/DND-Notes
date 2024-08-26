@@ -1,0 +1,1 @@
+Current ruler of [[The Rock of Bral]] after his older brother Cailer died recently. Executed the people believed responsible for his brother's death. The Hadozee child who was giving us a tour said he didn't believe Andru had gotten them.

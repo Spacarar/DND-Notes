@@ -1,0 +1,1 @@
+ruler of [[The Xaryxians]] who passed away in [[Episode 23]].
