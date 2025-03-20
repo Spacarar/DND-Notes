@@ -5,6 +5,8 @@ I'm a deserted solider from the giff (hard g) armies. I dream to travel space an
 
 On an Adventure in [[Wild Space]]. I'm on this random plane after a long hard mission, I'm just trying to figure out my next job. 
 
+![[barr.png]]
+
 #Me
 #Party 
 #Player 

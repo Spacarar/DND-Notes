@@ -2,6 +2,7 @@ So far I know that we're somewhere here. DM says that the light of Xyraxis has n
 
 I suspect they just destroyed [[Planet of Malderon]] at the start of our adventure.
 
-Turned the dying 
+currently 1492 DR (Dale Reckoning)
+
 ![[wild space.png]]
 #WildSpace home to the #Wildspacer

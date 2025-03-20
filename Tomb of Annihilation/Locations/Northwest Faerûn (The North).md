@@ -1,0 +1,7 @@
+https://forgottenrealms.fandom.com/wiki/Northwest_Faer%C3%BBn
+![[the_savage_frontier_by_yora_gm_map_v2.png]]**Northwest Faerûn**, generally referred to as **the North** or even **the Savage North**, was a region of [Faerûn](https://forgottenrealms.fandom.com/wiki/Faer%C3%BBn "Faerûn") full of untamed wilderness, wracked with difficult winter weather, and home of many hardy folks and fearsome beasts. In spite of this reputation, the North was home to three of the greatest cities in all of Faerûn: [Neverwinter](https://forgottenrealms.fandom.com/wiki/Neverwinter "Neverwinter"), Jewel of the North, [Waterdeep](https://forgottenrealms.fandom.com/wiki/Waterdeep "Waterdeep"), the City of Splendors, and [Silverymoon](https://forgottenrealms.fandom.com/wiki/Silverymoon "Silverymoon"), Gem of the North
+
+The inhabitants of areas further south, in [West Faerûn](https://forgottenrealms.fandom.com/wiki/West_Faer%C3%BBn "West Faerûn"), described this area in condescension as "the Savage North," which was a reference to the [Savage Frontier](https://forgottenrealms.fandom.com/wiki/Savage_Frontier "Savage Frontier") and a time when its inhabitants were less civilized
+
+[[Bryndor Aurilstag]] hails from this region. specifically here
+![[bryndor-home-zoomed.png]]

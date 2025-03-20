@@ -1,0 +1,7 @@
+https://forgottenrealms.fandom.com/wiki/Seven_Sentinels_of_Silvanus
+
+he island of [[Ilighôn]] stood in the [[Sea of Fallen Stars]], encircled by Eldath's Ring – a reef that protected the island and left only one opening for the ships to move through. The opening led to the bay and harbors of Sapra. The opening's length was a quarter of a mile, and the Seven Sentinels of Silvanus guarded it. The Seven Sentinels tiredly protected the island, never leaving their post. The Sentinels consisted of four water [[Elementals]] and three air elementals who served [[Silvanus]] and the [[The Emerald Enclave]] – masters of the island.
+
+Each of the elements was a hulking creature of 17 feet (5.2 meters). They were fanatically fearless and were powerful enough to easily overturn a seafaring vessel weighing up to 16 tons. Air and water [[Elementals]] could prevent unwanted ships from entering Sapra's bay by catching them in squalls and whirlpools, keeping them in place. Commonly used tactics of the Seven Sentinels were the water [[Elementals]] keeping ships in place, while air [[Elementals]] used their winds to crash the ships into each other. The creatures were also protected from magics that could control [[Elementals]] and from being banished from the Prime Material plane.[1]
+
+The [[Seven Sentinels of Silvanus]] were not just powers of destruction. They were tasked with saving drowning sailors and sinking ships. The [[Elementals]] also guided friendly ships away from the Eldath's Ring and into the safety of [[Ilighôn]]'s harbors.[1] 

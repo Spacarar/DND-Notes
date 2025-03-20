@@ -4,114 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "6fd20b3cc2bb6d29",
+        "id": "b3e0e2b8d827c581",
         "type": "tabs",
         "children": [
           {
-            "id": "a4cd3d95a031274e",
+            "id": "8e241404f0dae40e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Episodes/Episode 21.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5fa4e0ea0b31b424",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Episodes/Episode 22.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8efa3f99cb801614",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions & Races/The Xaryxians.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "68ac855186c8fca4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCS/Emporer Xevon.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6c71170222f5c01e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Xarixispace.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "dab0d559b2700c18",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2373ba539252d3c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Episodes/Episode 19.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bed5d56ed3c081f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Episodes/Episode 23.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "33934b42bfa95bb9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Imperial Citadel.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,8 +36,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -140,13 +49,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Party",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -154,7 +65,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -177,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Episodes/Episode 23.md",
+                "file": "Episodes/Episode 26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +98,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Episode 26"
             }
           },
           {
@@ -194,10 +109,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Episodes/Episode 23.md",
+                "file": "Episodes/Episode 26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Episode 26"
             }
           },
           {
@@ -208,7 +125,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -217,8 +136,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Episodes/Episode 23.md"
-              }
+                "file": "Episodes/Episode 26.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Episode 26"
             }
           }
         ]
@@ -238,54 +159,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "87c0f0dbc51975c5",
+  "active": "8e241404f0dae40e",
   "lastOpenFiles": [
-    "New Text Document.txt",
-    "Factions & Races/The Xaryxians.md",
-    "Episodes/Episode 23.md",
-    "assets/xodar.png",
-    "NPCS/Xedalli.md",
-    "Locations/Xarixispace.md",
-    "NPCS/Emporer Xevon.md",
-    "Episodes/Episode 22.md",
-    "Locations/Imperial Citadel.md",
-    "assets/map-12.02-imperial-citadel-player.jpg",
-    "Episodes/Episode 19.md",
-    "Episodes/Episode 21.md",
-    "assets/Pasted image 20240723202503.png",
+    "Players/Morgana Noldra.md",
+    "Players/Irma Harmuvitch.md",
+    "Players/Doxylamine.md",
+    "Players/Bex Berghold.md",
+    "Players/Barristan Tardiff - ME.md",
+    "Players/Astrid.md",
+    "assets/637961800649770847.png",
+    "assets/637961800642907022.png",
+    "assets/morgana.png",
+    "assets/irma.png",
+    "assets/doxylamine.png",
+    "assets/bex-fix.png",
+    "assets/barr.png",
+    "assets/astrid.png",
+    "Players/Solara Sunfire.md",
     "Locations/Second Wind.md",
-    "Episodes/Episode 20.md",
-    "assets/xaryxispace.png",
-    "Factions & Races/Hadoozee.md",
-    "assets/bulette armor.png",
-    "Ships/Shrike.md",
-    "Ships/Space Galleon.md",
-    "assets/shrike-ship.png",
-    "assets/space-galleon.png",
-    "Ships/Squid Ship.md",
-    "Ships/Lamprey.md",
-    "Ships/Flying Fish.md",
-    "Episodes/Episode 1-3.md",
-    "NPCS/Vortshu.md",
-    "NPCS/T'kitka.md",
-    "NPCS/Rika.md",
-    "Factions & Races/Aartuk.md",
-    "Factions & Races/Bulette.md",
-    "NPCS/Dakaer.md",
-    "assets/bulette.png",
-    "Episodes/Episode 15.md",
-    "assets/ssurran.png",
-    "assets/aartuk.png",
+    "NPCS/Second Wind/Commodore Krux.md",
+    "NPCS/Second Wind/Mister Flinch.md",
+    "assets/Episodes/SpellJammer/Episode 11.md",
+    "Factions & Races/Raigar.md",
+    "Locations/Doom Space.md",
+    "assets/Episodes/SpellJammer/Episode 10.md",
+    "assets/Episodes/SpellJammer/Episode 8.md",
+    "assets/Episodes/SpellJammer/Episode 7.md",
+    "assets/Episodes/SpellJammer/Episode 4.md",
+    "assets/Episodes/Episode 27.md",
+    "NPCS/Jan Jenson.md",
+    "Locations/Wild Space.md",
+    "Locations/Xarixispace.md",
+    "assets/Episodes/Episode 26.md",
+    "NPCS/Grimzod (Gargamel) Gargenhale.md",
+    "assets/gorgonzola.png",
+    "assets/spooky-dookie-gargenhale.jpg",
+    "assets/Episodes/Episode 25.md",
+    "Factions & Races/Space Clowns.md",
+    "NPCS/Halisstra Vandree.md",
+    "Things",
+    "assets/Deck of many things",
+    "assets/638155381767534940.png.part",
+    "assets/Episodes/SpellJammer",
+    "New Text Document.txt",
     "NPCS/Vocath",
     "Ships",
-    "Episodes",
+    "assets/Episodes",
     "NPCS/Second Wind",
     "Factions & Races",
-    "NPCS/Underbarons",
-    "NPCS/Bral Main",
-    "NPCS/The Moondancer",
-    "Untitled.canvas",
-    "Locations",
-    "Players"
+    "Untitled.canvas"
   ]
 }

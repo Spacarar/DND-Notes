@@ -3,4 +3,4 @@ We continued our battle with [[The Xaryxians]] fighting off their flagship. We s
 previous episode: [[Episode 21]]
 next episode: [[Episode 23]]
 
-#Episode #Episode22
+#Episode #Episode22 #SpellJammer

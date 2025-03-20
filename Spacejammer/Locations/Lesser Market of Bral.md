@@ -4,7 +4,7 @@ DM says that when we arrive into the bazaar there is a shop with a suit of armor
 
 Astrid wanted to go into the weapon shop and looks for a new handle for the dagger "you'll look good in pink". the weapon begrudgingly agreed to look for a new handle.
 
-### Armory
+### Armory (The perfect fit)
 - smell the tanning of leather, and hear the pounding of metal on meta
 - We see a #Plasmoid. It slinks out of the armor and the armor falls to the ground
 - he had some full plate, half plate, both of which could be custom fitted by his liquid nature. It was FAR too expensive to afford anything right now and he didn't even bother showing off the rings after I told him that his armor was too expensive. He said the rings were too magical but out of my range.

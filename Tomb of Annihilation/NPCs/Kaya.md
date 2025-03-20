@@ -1,0 +1,1 @@
+the owner and innkeep of [[Kaya's House of Repose]]

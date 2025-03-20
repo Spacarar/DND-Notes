@@ -10,3 +10,8 @@ We muster our way through the crowd just in time to see [[Emporer Xevon]]'s asce
 We defeated [[Xodar]], [[Xedalli]] immediately turned on us and told the guards to seize us. [[Xodar]] then lights up, tells us that if we throw the ring of shooting stars into the sun, that it will undo all the destruction they have caused.
 
 We decided that [[Solara Sunfire]] would sacrifice herself to the sun portal to destroy this. We rushed back to the [[Second Wind]]. We took on a few survivors, but only could carry so many people. [[Xeristopher Planeswalkin]] announced. Thank you Foo Fighters for your service. We headed back to [[Planet of Malderon]] and we see that the crystal vines that have engulfed the world have shattered and collapsed. The [[The Xaryxians|Astral Elves]] have some strongholds 
+
+previous episode: [[Episode 22]]
+next episode: [[Episode 24]]
+
+#Episode #Episode23 #Finale

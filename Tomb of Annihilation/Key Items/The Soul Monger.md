@@ -1,0 +1,1 @@
+a necromancer artifact supposed to cause this decaying sickness on revival magic.

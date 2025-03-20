@@ -5,6 +5,7 @@ Believes her typically male god is actually female and left her family to find h
 
 ![[637961801025725284.jpeg]]
 
+![[bex-fix.png]]
 #Party
 #Player
 #Dwarf

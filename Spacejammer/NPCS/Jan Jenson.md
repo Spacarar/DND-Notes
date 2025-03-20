@@ -1,0 +1,2 @@
+
+Space clown who's fate was turned by "The fates" tarot card which is said to undo something as if it had never happened. found in [[Morgana Noldra]]'s manor in [[Episode 27]]. [[Morgana Noldra]] told him that he was trespassing however and he immediately left.

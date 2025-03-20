@@ -11,3 +11,5 @@ caption of [[The Last Breath]]
 ![[gargenhale 2.png|400]]
 ![[gargenhale pirate code.png]]
 
+
+![[spooky-dookie-gargenhale.jpg]]

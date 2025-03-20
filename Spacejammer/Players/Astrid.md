@@ -4,6 +4,8 @@ just picked up a dagger with the words "blasphem" carved into the dagger that is
 
 She has an unlucky longbow that can hit allies (or self if no allies) on a 1 or 2
 
+![[astrid.png]]
+
 #Party 
 #Player 
 #Rogue
