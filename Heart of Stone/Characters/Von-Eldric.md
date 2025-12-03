@@ -1,0 +1,1 @@
+Elite family. Owners of [[The Mansion]] presumed to be dead.

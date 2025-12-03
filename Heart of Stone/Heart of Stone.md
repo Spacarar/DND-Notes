@@ -1,0 +1,1 @@
+You’re going to be starting in grimstone prison, people may or may not deserve to be there but you found yourself there with the party members and have been locked up for a month together. A riot breaks out and it’s up to you and your fellow party members to make a daring escape!

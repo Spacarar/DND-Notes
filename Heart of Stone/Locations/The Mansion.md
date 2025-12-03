@@ -1,0 +1,1 @@
+A mansion surrounded by a thick fog. [[Tuck]] claims there is haunted [[Von-Eldric]] treasure here.

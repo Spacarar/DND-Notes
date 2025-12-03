@@ -12,7 +12,7 @@ Episode cast:
 - [[Bryndor Aurilstag]]
 - [[Landric]]
 - [[Leet]]
--  [[Sehli Yarhibol]]
+- [[Sehli Yarhibol]]
 
 Previous episode: [[Episode 1]]
 Next episode: [[Episode 3]]
